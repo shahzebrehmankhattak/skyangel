@@ -264,9 +264,7 @@ button:focus {
 	grid-template-columns: 1fr 1fr;
 	aspect-ratio: 1/1;
 }
-.sensible-areas > * {
-	/* border: 2px solid black; */
-}
+
 
 #soundOnOff > * {
 	display: none;
